@@ -1,0 +1,10 @@
+Scraped: Hyundai
+Scraped: Maruti-Suzuku
+Scraped: Tata
+Scraped: Mahindra
+Scraped: Kia
+Scraped: Toyota
+Scraped: Mg
+Scraped: Volkswagen
+Scraped: Skoda
+Scraped: Jeep

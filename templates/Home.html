@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="DJ Night, Latests Events, Vatos Locos and Friends Friday 5.26, II Points x Secret Project – May 1st, Jean Pierre’s Wynwood Remix, Biography, DJ Night is Your Best Choice For Luxury Destination Weddings, Private, and Corporate Events, About Me, Contact Us">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='nicepage.css') }}" media="screen">
+    <link rel="stylesheet" href="{{ url_for('static', filename='Home.css') }}" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.2.6, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700|PT+Sans:400,400i,700,700i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#39a1ff">
+    <meta property="og:title" content="Home">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body">
+    
+    <section class="u-align-center u-clearfix u-palette-1-dark-3 u-section-1" id="sec-70e7">
+      <div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
+        <h1 class="u-text u-title u-text-1">{{ company[1] }} Cars</h1>
+        <h1 class="u-text u-text-2"> 
+          {{ company[2] }}
+        </h1>
+        <a href="{{ company[3] }}" class="u-active-white u-border-2 u-border-white u-btn u-button-style u-color-scheme-summer-time u-color-style-multicolor-1 u-custom-font u-font-oswald u-hover-white u-none u-text-active-palette-1-dark-3 u-text-body-alt-color u-text-hover-palette-1-dark-3 u-btn-5">READ MORE</a>
+        <div class="u-palette-2-base u-shape u-shape-circle u-shape-1"></div>
+      </div>
+    </section>
+    <section class="u-clearfix u-palette-5-dark-3 u-section-2" id="sec-d14a">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-text u-text-1"> {{ company[1] }} Car Models</h1>
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            {% for car in cars %}
+              <div class="u-container-style u-list-item u-repeater-item">
+                <div class="u-container-layout u-similar-container u-container-layout-1">
+                  <img src="{{ car[3] }}" alt="" class="u-image u-image-default u-preserve-proportions u-image-1" data-image-width="480" data-image-height="320">
+                  <h2 class="u-text u-text-2">{{ car[1] }}</h2>
+                  <h5 class="u-custom-font u-font-pt-sans u-text u-text-3"> Rs.{{ car[5] }} - {{ car[6] }} Lakh*</h5>
+                  <a href="https://www.cardekho.com/cars/Toyota" class="u-active-white u-border-1 u-border-white u-btn u-button-style u-hover-white u-none u-text-active-palette-5-dark-3 u-text-body-alt-color u-text-hover-palette-5-dark-3 u-btn-1">more</a>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-fb57"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">The above are the search results of the particular brands of Cars.No Copyright Intended by any means.</p>
+      </div></footer>
+  </body>
+</html>

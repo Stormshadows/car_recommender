@@ -1,0 +1,504 @@
+ .u-section-1 {
+  background-image: url("/media/pratheek/Local Disk/Python/ADP mini project/adp-project-main/static/img/wdq.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1536px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1339px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  background-image: none;
+  text-transform: none;
+  font-weight: 700;
+  font-family: "Roboto Condensed", sans-serif;
+  width: 692px;
+  margin: 21px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 416px;
+  width: 755px;
+  margin: 30px auto 0 25px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 302px;
+  min-height: 73px;
+  height: auto;
+  margin: -339px 30px 0 auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3rem;
+  margin: 0 21px;
+}
+
+.u-section-1 .u-text-3 {
+  background-image: none;
+  font-weight: 700;
+  text-align: center;
+  font-size: 3rem;
+  margin: 25px 25px 0 808px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 251px 25px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none none solid;
+  font-weight: 600;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 3px;
+  margin: -109px 488px 65px auto;
+  padding: 10px 37px 10px 36px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 562px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 1042px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 1104px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -338px;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 17px;
+    padding-bottom: 17px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 3px;
+    margin-left: 786px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 633px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 288px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 430px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 84px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 397px;
+    width: 720px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -249px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -69px;
+    margin-right: 0;
+    margin-left: 569px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -91px;
+    margin-left: 413px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 146px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 68px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 486px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    order: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 298px;
+    width: 540px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -74px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -19px;
+    margin-left: 389px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -316px;
+    margin-left: 233px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 203px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 188px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 382px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 31px;
+    margin-left: 189px;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.875rem;
+    margin-top: -809px;
+    margin-left: 33px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(44,204,196,0.25), rgba(44,204,196,0.25)), url("/media/pratheek/Local Disk/Python/ADP mini project/adp-project-main/static/img/pexels-brett-sayles-5326746.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 740px;
+}
+
+.u-section-2 .u-text-1 {
+  width: 800px;
+  font-size: 3.75rem;
+  background-image: none;
+  font-weight: 700;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-list-1 {
+  margin: 109px 0 60px;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: calc(25% - 13.5px) calc(25% - 13.5px) calc(25% - 13.5px) calc(25% - 13.5px);
+  grid-gap: 18px 18px;
+  min-height: 306px;
+}
+
+.u-section-2 .u-list-item-1 {
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 23px 30px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 164px;
+  height: 164px;
+  background-image: url("/media/pratheek/Local Disk/Python/ADP mini project/adp-project-main/static/img/Fuel.jpg");
+  background-position: 50% 50%;
+  margin: 8px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  text-transform: none;
+  font-style: italic;
+  margin: 24px 4px 0 0;
+}
+
+.u-section-2 .u-text-3 {
+  text-transform: none;
+  font-style: italic;
+  text-align: center;
+  margin: 17px 4px -7px 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 23px 30px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 164px;
+  height: 164px;
+  background-image: url("/media/pratheek/Local Disk/Python/ADP mini project/adp-project-main/static/img/transmission.png");
+  background-position: 50% 50%;
+  margin: 8px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  text-transform: none;
+  font-style: italic;
+  margin: 24px 4px 0 0;
+}
+
+.u-section-2 .u-text-5 {
+  text-transform: none;
+  font-style: italic;
+  text-align: center;
+  margin: 17px 4px -7px 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 23px 30px;
+}
+
+.u-section-2 .u-image-3 {
+  width: 164px;
+  height: 164px;
+  background-image: url("/media/pratheek/Local Disk/Python/ADP mini project/adp-project-main/static/img/fuelpumpicon-1320136427946720947.png");
+  background-position: 50% 50%;
+  margin: 8px auto 0;
+}
+
+.u-section-2 .u-text-6 {
+  text-transform: none;
+  font-style: italic;
+  margin: 24px 4px 0 0;
+}
+
+.u-section-2 .u-text-7 {
+  text-transform: none;
+  font-style: italic;
+  text-align: center;
+  margin: 17px 4px -7px 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 23px 30px;
+}
+
+.u-section-2 .u-image-4 {
+  width: 164px;
+  height: 164px;
+  background-image: url("/media/pratheek/Local Disk/Python/ADP mini project/adp-project-main/static/img/390-3908832_colors-car-seat-hd-png-download.png");
+  background-position: 50% 50%;
+  margin: 8px auto 0;
+}
+
+.u-section-2 .u-text-8 {
+  text-transform: none;
+  font-style: italic;
+  margin: 24px 4px 0 0;
+}
+
+.u-section-2 .u-text-9 {
+  text-transform: none;
+  font-style: italic;
+  text-align: center;
+  margin: 17px 4px -7px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-2 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-8 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-9 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1079px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-list-1 {
+    height: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: calc(50% - 9px) calc(50% - 9px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1076px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 540px;
+    font-size: 3.4375rem;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    width: 340px;
+    font-size: 3rem;
+  }
+}
